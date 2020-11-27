@@ -1,0 +1,4 @@
+# https://stackoverflow.com/a/47081822/5251078
+# https://github.com/sbt/sbt-launcher-package/issues/92
+-Xmx2048M
+-Xss4M
